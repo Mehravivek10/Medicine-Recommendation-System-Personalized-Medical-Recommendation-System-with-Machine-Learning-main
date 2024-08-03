@@ -24,7 +24,8 @@ we aim to make healthcare more accessible and user-centric. In an era where remo
 this project represents a significant step forward in providing accessible and reliable healthcare information to the masses. We hope that this project will contribute to better health awareness and ultimately improve the well-being of individuals worldwide.
 
 INTERFACE LOOKS LIKE 
-<img width="1470" alt="Screenshot 2024-08-03 at 9 59 32 AM" src="https://github.com/user-attachments/assets/db7ad77e-5d07-48b9-8ebe-c2717d859fe6">
+
+<img width="1470" alt="Screenshot 2024-08-03 at 9 59 11 AM" src="https://github.com/user-attachments/assets/e0ddc2fc-9db5-4b09-b2b6-541bcbe39a14">
 
 Enter Symptoms:
 <img width="1470" alt="Screenshot 2024-08-03 at 9 59 23 AM" src="https://github.com/user-attachments/assets/2094c7e6-1b4b-4d42-9a4e-782b2c756a19">
